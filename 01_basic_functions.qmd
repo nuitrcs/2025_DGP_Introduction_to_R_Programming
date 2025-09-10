@@ -30,7 +30,7 @@ list.files()
 Names of functions -- and other things -- in R are case sensitive
 
 ```{r, error=TRUE}
-log(10)  # gives an error
+Log(10)  # gives an error
 ```
 
 
